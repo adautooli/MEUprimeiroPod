@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
   s.source_files = 'Classes/**/*.swift'
   s.swift_version = '5.0'
-  s.platform = :ios, "5.0"
+  s.platform = :ios, "13.0"
   
   # s.resource_bundles = {
   #   'MEUprimeiroPod' => ['MEUprimeiroPod/Assets/*.png']
