@@ -1,0 +1,6 @@
+framework module MEUprimeiroPod {
+  umbrella header "MEUprimeiroPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

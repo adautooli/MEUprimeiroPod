@@ -1,0 +1,16 @@
+PODS:
+  - MEUprimeiroPod (0.1.0)
+
+DEPENDENCIES:
+  - MEUprimeiroPod (from `../`)
+
+EXTERNAL SOURCES:
+  MEUprimeiroPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MEUprimeiroPod: 4523ac09255295827a038fd7854369f2fb5aab52
+
+PODFILE CHECKSUM: 9f1204b92a0eb2acc0e194f068c0dcc01470e006
+
+COCOAPODS: 1.10.1
